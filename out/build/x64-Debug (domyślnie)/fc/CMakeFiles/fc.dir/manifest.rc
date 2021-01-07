@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/my pisi/source/repos/fc/out/build/x64-Debug (domyślnie)/fc/CMakeFiles/fc.dir/embed.manifest"

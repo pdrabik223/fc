@@ -1,0 +1,5 @@
+C:/Users/my pisi/source/repos/fc/out/build/x64-Debug (domyślnie)/CMakeFiles/edit_cache.dir
+C:/Users/my pisi/source/repos/fc/out/build/x64-Debug (domyślnie)/CMakeFiles/rebuild_cache.dir
+C:/Users/my pisi/source/repos/fc/out/build/x64-Debug (domyślnie)/fc/CMakeFiles/fc.dir
+C:/Users/my pisi/source/repos/fc/out/build/x64-Debug (domyślnie)/fc/CMakeFiles/edit_cache.dir
+C:/Users/my pisi/source/repos/fc/out/build/x64-Debug (domyślnie)/fc/CMakeFiles/rebuild_cache.dir
