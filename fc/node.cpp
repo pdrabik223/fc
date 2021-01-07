@@ -15,8 +15,10 @@ my::node<T>::node()
 	right = nullptr;
 
 }
-
+//its ok
 template<class T>
+
+
 my::node<T>::node(T value)
 {
 
